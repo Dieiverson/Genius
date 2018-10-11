@@ -1,0 +1,32 @@
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\bin\Debug\GENIUS.exe.config
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\bin\Debug\GENIUS.exe
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\bin\Debug\GENIUS.pdb
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\obj\Debug\GENIUS.csprojResolveAssemblyReference.cache
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\obj\Debug\GENIUS.Form1.resources
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\obj\Debug\GENIUS.Properties.Resources.resources
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\obj\Debug\GENIUS.csproj.GenerateResource.Cache
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\obj\Debug\GENIUS.exe
+c:\users\dieiverson\documents\visual studio 2017\Projects\GENIUS\GENIUS\obj\Debug\GENIUS.pdb
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.csprojResolveAssemblyReference.cache
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.Form1.resources
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.Properties.Resources.resources
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.csproj.GenerateResource.Cache
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.csproj.CoreCompileInputs.cache
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.exe
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\obj\Debug\GENIUS.pdb
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\bin\Debug\GENIUS.exe.config
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\bin\Debug\GENIUS.exe
+C:\Users\Dieiverson\Documents\MEGA\Privada\Formatação\Visual Studio\GENIUS\GENIUS\bin\Debug\GENIUS.pdb
+E:\GENIUS\GENIUS\bin\Debug\GENIUS.exe.config
+E:\GENIUS\GENIUS\bin\Debug\GENIUS.exe
+E:\GENIUS\GENIUS\bin\Debug\GENIUS.pdb
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.csprojResolveAssemblyReference.cache
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.Form1.resources
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.Properties.Resources.resources
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.csproj.GenerateResource.Cache
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.csproj.CoreCompileInputs.cache
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.exe
+E:\GENIUS\GENIUS\obj\Debug\GENIUS.pdb
+E:\programação\GENIUS\GENIUS\bin\Debug\GENIUS.exe.config
+E:\programação\GENIUS\GENIUS\obj\Debug\GENIUS.exe
+E:\programação\GENIUS\GENIUS\obj\Debug\GENIUS.pdb
